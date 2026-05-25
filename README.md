@@ -1,13 +1,27 @@
-# Responsive Construction Website
-## [Watch it on youtube](https://youtu.be/IOyZO_l94ME)
-### Responsive Construction Website
+Official website project for buildcareconsultants.com⁠ — a construction consultancy and engineering services platform.
 
-- Responsive Construction Website Design Using HTML CSS And JavaScript
-- Contains animations when scrolling.
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+📌 Overview
+This project contains the source code for the Build Care Consultants website, designed to showcase construction consulting services, company expertise, and client-focused solutions with a modern and responsive user interface.
 
-💙 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+The website focuses on:
+Professional company presentation
+Responsive and modern UI
+Service and project showcase
+Contact and inquiry functionality
+Optimized performance and accessibility
 
-![preview img](/preview.png)
+🚀 Features
+Responsive design for mobile, tablet, and desktop
+Clean and modern user interface
+Service showcase sections
+Contact form integration
+Smooth navigation and user experience
+SEO-friendly structure
+Optimized frontend performance
+
+🛠️ Tech Stack
+HTML5
+CSS3
+JavaScript
+Bootstrap
+React.js
